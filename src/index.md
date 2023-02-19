@@ -1,2 +1,2 @@
 Hola mundo! soy Ajota
-cambio de la nueva rama
+Cambio a la nueva rama
